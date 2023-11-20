@@ -4,9 +4,9 @@
 
 The Module 9 Challenge objective was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-## Deployment Walkthrough
+## Deployment Screenshot
 
-![deployment-walkthrough](./Develop/images/ReadMe%20Generator%20Walkthrough.mp4)
+![deployment-screenshot](./Develop/images/deployment-screenshot.JPG)
 
 ## Comments
 
